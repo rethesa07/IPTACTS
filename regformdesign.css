@@ -1,0 +1,296 @@
+body { background: black; }
+
+.paper {
+	margin: 0 auto;
+	margin-top: 10px;
+	margin-bottom: 13px;
+	background: white;
+	height: 17.2in;
+	width: 12.8in;
+}
+
+img {
+	float: left;
+	margin-top: 20px;
+	margin-left: 50px;
+	margin-right: 10px;
+}
+
+h1 {
+	padding-top: 30px;
+	color: #B40000;
+	text-align: left;
+	font-family: arial, sans-serif;
+	font-size: 23px;
+	font-weight: bold;
+}
+
+h2 {
+	margin-top: -18px;
+	color: #B40000;
+	text-align: left;
+	font-family: arial, sans-serif;
+	font-size: 17px;
+	font-weight: bold;
+}
+
+h4 {
+	margin-top: -15px;
+	color: #B40000;
+	text-align: left;
+	font-family: arial, sans-serif;
+	font-size: 13.5px;
+	font-weight: bold;
+}
+
+.regtitle {
+	margin-top: -100px;
+	margin-right: 80px;
+	color: #B40000;
+	text-align: center;
+	font-family: arial, sans-serif;
+	font-size: 26px;
+	font-weight: bold;
+}
+
+.regnumdate {
+	margin-right: -410px;
+	margin-top: -85px;
+	color: #B40000;
+	text-align: center;
+	font-family: arial, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.num {
+	margin-right: -349px;
+	margin-top: 20px;
+	color: #B40000;
+	text-align: center;
+	font-family: arial, sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.date {
+	margin-right: -413px;
+	margin-top: -12px;
+	color: #B40000;
+	text-align: center;
+	font-family: arial, sans-serif;
+	font-size: 14px;
+}
+
+.ref {
+	margin-right: -565px;
+	margin-top: -62px;
+	text-align: center;
+	font-family: arial, sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.semdate {
+	margin-right: -705px;
+	margin-top: -17px;
+	text-align: center;
+	font-family: arial, sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.tableformat {
+	margin: 0 auto;
+	margin-top: -12px;
+	margin-bottom: 30px;
+	width: 12.3in;
+	border-style: solid solid solid solid;
+	border-width: 3px;
+	border-radius: 20px 20px 20px 20px;
+	border-color: #B40000;
+}
+
+.studentinfo { width: 12.3in; }
+
+.form {
+	border-radius: 15px 15px 0px 0px;
+	background-color: #B40000;
+	color: white;
+	font-size: 15px;
+	font-weight: bold;
+	padding: 8px 35px;
+	font-family: Arial, Sans-Serif;
+}
+
+.personalinfo {
+	text-align: left;
+	font-family: arial, sans-serif;
+	font-weight: bold;
+}
+
+.namenumadd {
+	color: #B40000;
+	padding: 5px 0 14px 40px;
+	width: 1.25in;
+}
+
+.yearprog, .colcode {
+	color: #B40000;
+	padding: 5px 0 14px 0px;
+}
+
+.namenum, .yearproginfo, .colcodeinfo, .addinfo { padding: 5px 0 14px 0px; }
+.namenum { width: 4.37in; }
+.yearprog { width: 1.4in; }
+.yearproginfo { width: 2in; }
+.colcode { width: 1.5in; }
+
+.courses, .feesheader {
+	background-color: #B40000;
+	color: white;
+	font-size: 16px;
+	font-weight: bold;
+	padding: 1px 0 1px 38px;
+	font-family: Arial, Sans-Serif;
+	text-align: center;
+}
+
+.coursecodesec { width: 160px; }
+
+.coursetitle {
+	width: 415px;
+	text-align: left;
+	padding-left: 130px;
+}
+
+.courseunit { width: 60px; }
+.coursesched { width: 360px; }
+.blank { height: 15px; }
+
+.coursesdetails, .feesdetails, .bottomdetails {
+	font-family: "Courier New", Courier;
+	font-weight: bold;
+	font-size: 14px;
+	text-align: left;
+}
+
+.codesec {
+	width: 156px;
+	padding-left: 46px;
+	padding-top: 3px;
+}
+
+.title {
+	width: 440px;
+	padding-left: 40px;
+	padding-top: 3px;
+}
+
+.titledesc {
+	width: 70px;
+	text-align:center;
+}
+
+.units {
+	width: 60px;
+	text-align:center;
+}
+
+.days { width: 50px; }
+.time { width: 115px; }
+.m { width: 27px; }
+.room { width: 160px; }
+
+.dash {
+	text-align: center;
+	padding-left: 390px;
+}
+
+.feestitle {
+	text-align: center;
+	color: #B40000;
+	font-family: arial, sans-serif;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+.feesparticulars { width: 600px; }
+.feesamount { width: 100px; }
+.feespaysched { width: 425px; }
+
+.feesnum {
+	width: 55px;
+	padding-left: 35px
+}
+
+.feesname { width: 507px; }
+
+.feesprice {
+	width: 130px;
+	text-align: right;
+}
+
+.feesdate {
+	width: 280px;
+	padding-left: 65px;
+}
+
+.feespayment {
+	width: 85px;
+	text-align: right;
+	padding-right: 35px;
+}
+
+.end {
+	width: 135px;
+	padding-left: 35px;
+}
+
+.endname {
+	font-style: italic;
+	padding-left: 35px;
+}
+
+.docs {
+	color: #B40000;
+	font-family: arial, sans-serif;
+	font-weight: bold;
+	margin-left: 40px;
+}
+
+.text {
+	color: #B40000;
+	font-family: arial, sans-serif;
+	font-weight: bold;
+	margin-top: -40px;
+	margin-left: 40px;
+}
+
+.bottom {
+	width: 3.9in;
+	margin: 0 auto;
+	margin-top: -10px;
+	margin-left: 50px;
+}
+
+.bottomleft {
+	width: 120px;
+	height: 20px;
+	
+}
+
+.last {
+	font-family: arial, sans-serif;
+	font-size: 14px;
+}
+
+.qrpic {
+	width: 112px;
+	height: 112px;
+	float: right;
+	margin-top: -205px;
+	margin-right: 90px;
+}
+
+
